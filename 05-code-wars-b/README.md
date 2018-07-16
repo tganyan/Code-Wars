@@ -1,0 +1,2 @@
+# 05-code-wars-b
+05 code wars part b. Take in a string and return two array items. Array item one needs to be a string with every even letter capitalized, array item two needs to be a string with all the odd letters capitalized.
